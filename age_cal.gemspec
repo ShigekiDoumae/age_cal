@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AgeCal::VERSION
   spec.authors       = ["Shigeki Doumae"]
   spec.email         = ["shigeki.doumae@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Get the age from date.}
+  spec.summary       = %q{Get the age from date.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
